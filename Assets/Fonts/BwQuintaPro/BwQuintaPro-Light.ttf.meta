@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fd8e08b48ac33e140ba84c0ad70dd370
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bw Quinta Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bb2552d7dff0590459074dbc99bacb7b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
